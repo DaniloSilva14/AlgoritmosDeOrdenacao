@@ -1,4 +1,4 @@
-# AlgoritmosDeOrdenacao
+# Algoritmos de Ordenacao
 
 Algoritimos de ordenação desenvolvidos em python.
 - BubbleSort 
